@@ -1,6 +1,6 @@
 # README #
 
-This code was written by Martin Eden originally in Bitbucket at Please read the license.txt file contained in this repo, but it was deleted. I had downloaded it long time ago and recovered it.
+This code was written by Martin Eden originally in Bitbucket at https://bitbucket.org/MartinEden/local-policy, but it was deleted. I had downloaded it long time ago and recovered it.
 
 See [this blog post](http://www.lshift.net/blog/2013/03/25/programmatically-updating-local-policy-in-windows/) for an introduction to the library.
 
