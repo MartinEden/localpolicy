@@ -1,5 +1,7 @@
 # README #
 
+This code was written by Martin Eden, and was recovered from an old download.
+
 See [this blog post](http://www.lshift.net/blog/2013/03/25/programmatically-updating-local-policy-in-windows/) for an introduction to the library.
 
 Please note, when using this library your program needs to run
