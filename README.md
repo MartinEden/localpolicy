@@ -1,6 +1,6 @@
 # README #
 
-This code was written by Martin Eden, and was recovered from an old download.
+This code was written by Martin Eden originally in Bitbucket as noted below. The code was lost, but I had downloaded it long time ago and recovered it.
 
 See [this blog post](http://www.lshift.net/blog/2013/03/25/programmatically-updating-local-policy-in-windows/) for an introduction to the library.
 
